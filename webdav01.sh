@@ -5,8 +5,7 @@ echo
 figlet webdav01 | lolcat
 echo
 echo "-----------------------" | lolcat
-echo "coded by = Mr.zero" | lolcat
-echo "Youtube = Mr zero" | lolcat
+echo "coded by = Shadow" | lolcat
 echo "+++++++++++++++++++++++" | lolcat
 echo "live target" | lolcat
 echo "http://foodconsult.co.za" | lolcat
